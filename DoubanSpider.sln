@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoubanSpider", "DoubanSpider\DoubanSpider.csproj", "{063039F6-6C18-4138-9558-3ECB1B896749}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{063039F6-6C18-4138-9558-3ECB1B896749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{063039F6-6C18-4138-9558-3ECB1B896749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{063039F6-6C18-4138-9558-3ECB1B896749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{063039F6-6C18-4138-9558-3ECB1B896749}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE9B4ECE-07AB-4D12-82B9-8D2580AC2B5E}
+	EndGlobalSection
+EndGlobal
