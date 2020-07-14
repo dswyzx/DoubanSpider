@@ -6,8 +6,8 @@
 后来的后来就感觉无从下手就逐渐没动力了.
 
 
-*Program_blinddate	从话题api抓取页面展示数据
-*Pro_getfull			话题有自己主页面,抓取全文
-*Pro_fullpageclean	#todo 处理fullpage
+* Program_blinddate	从话题api抓取页面展示数据
+* Pro_getfull			话题有自己主页面,抓取全文
+* Pro_fullpageclean	#todo 处理fullpage
 
 db orm选择dapper
